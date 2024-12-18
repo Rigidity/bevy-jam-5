@@ -1,6 +1,6 @@
 # Bevy GitHub CI Template
 
-This repo show how to set up CI on a GitHub project for Bevy.
+This repo shows how to set up CI on a GitHub project for Bevy.
 
 It creates two workflows:
 
